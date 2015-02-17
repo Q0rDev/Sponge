@@ -1,4 +1,4 @@
-sudo: false
+sudo: true
 language: java
 jdk:
   #- openjdk6 TODO: For some reason, JDK6 fails on Javadoc on the new container infrastructure.
